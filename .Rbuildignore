@@ -53,3 +53,4 @@ src/*.dll
 ^pkgdown$
 ^~/Package/scDesign3_vignette$
 ^/home/qingyang/Package/scDesign3_vignette$
+^\.github$
