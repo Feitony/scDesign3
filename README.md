@@ -4,7 +4,7 @@
 
 The R package **scDesign3** is an all-in-one single-cell data simulation tool by using reference datasets with different cell states (cell types, trajectories or and spatial coordinates), different modalities (gene expression, chromatin accessibility, protein abundance, DNA methylation, etc), and complex experimental designs. The transparent parameters enable users to alter models as needed; the model evaluation metrics (AIC, BIC) and convenient visualization function help users select models. <span style="color:blue"> **Detailed tutorials that illustrate various functionalities of scDesign3 are available at this [website](https://songdongyuan1994.github.io/scDesign3/docs/index.html)**</span>. The following illustration figure summarizes the usage of scDesign3:
 
-<img src="man/figures/scDesign3_illustration.png" width="600"/>
+<img src="man/figures/scDesign3_illustration.png" width="600">
 
 
 To find out more details about **scDesign3**, you can check out our manuscript on Nature Biotechnology:

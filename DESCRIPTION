@@ -53,7 +53,7 @@ biocViews:
     Sequencing,
     GeneExpression,
     Spatial
-URL: https://github.com/SONGDONGYUAN1994/scDesign3
+URL: https://github.com/SONGDONGYUAN1994/scDesign3, https://feitony.github.io/scDesign3/
 BugReports: https://github.com/SONGDONGYUAN1994/scDesign3/issues
 RoxygenNote: 7.3.2
 Config/testthat/edition: 3

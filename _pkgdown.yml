@@ -1,4 +1,13 @@
 url: https://feitony.github.io/scDesign3/
 template:
   bootstrap: 5
+  
+articles:
+  - title: "Simulate datasets with cell type and modified cell-type proportions"
+    contents:
+      - scDesign3-cellType-vignette
+  - title: "Simulate datasets with batch effect"
+    contents:
+      - scDesign3-batchEffect-vignette
+
 
