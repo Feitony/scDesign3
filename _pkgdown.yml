@@ -3,11 +3,12 @@ template:
   bootstrap: 5
   
 articles:
-  - title: "Simulate datasets with cell type and modified cell-type proportions"
+  - title: "scDesign3"
     contents:
       - scDesign3-cellType-vignette
-  - title: "Simulate datasets with batch effect"
-    contents:
       - scDesign3-batchEffect-vignette
-
+      - scDesign3-introduction-vignette
+  - title: "scReadSim"
+    contents:
+      - RequiredSoftwareInstall
 
