@@ -10,5 +10,15 @@ articles:
       - scDesign3-introduction-vignette
   - title: "scReadSim"
     contents:
+      - scReadSim
       - RequiredSoftwareInstall
+      - scATACseq_NoInput_10X
+      - scRNAseq_10X
+      - scMultiOmics
+      - scATACseq_MultiSamples
+      - scRNAseq_MultiSamples
+      - scRNAseq_10X_Condition
+      - scRNAseq_10X_ExonOnly
+      - scATACseq_Input_10X
+      
 
